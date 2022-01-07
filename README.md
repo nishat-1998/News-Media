@@ -1,2 +1,2 @@
 Niamatpurer Kotha
-#(website)[https://niamatpurer-kotha.netlify.app/]
+#[website](https://niamatpurer-kotha.netlify.app/)
